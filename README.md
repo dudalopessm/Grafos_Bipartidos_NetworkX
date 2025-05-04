@@ -64,13 +64,13 @@ Autores: Yan Lucas, Diogo Koichi, Eduarda Lopes, Lucas Matos.
 
 ## Referências
 
-GEEKSFORGEEKS. *Real-life applications of bipartite graph*. 2021. Disponível em: <https://www.geeksforgeeks.org/real-life-applications-of-bipartite-graph/>. Acesso em: 3 maio 2025.
+GEEKSFORGEEKS. *Real-life applications of bipartite graph*. 2021. Disponível em: <https://www.geeksforgeeks.org/real-life-applications-of-bipartite-graph/>. Acesso em: 1 maio 2025.
 
-ZHANG, Z. et al. *Network analysis of high-throughput sequencing data*. GigaScience, [S. l.], v. 7, n. 4, 2018. Disponível em: <https://academic.oup.com/gigascience/article/7/4/giy014/4875933>. Acesso em: 3 maio 2025.
+ZHANG, Z. et al. *Network analysis of high-throughput sequencing data*. GigaScience, [S. l.], v. 7, n. 4, 2018. Disponível em: <https://academic.oup.com/gigascience/article/7/4/giy014/4875933>. Acesso em: 1 maio 2025.
 
-WIKIPEDIA. *Stable matching problem*. 2024. Disponível em: <https://en.wikipedia.org/wiki/Stable_matching_problem>. Acesso em: 3 maio 2025.
+WIKIPEDIA. *Stable matching problem*. 2024. Disponível em: <https://en.wikipedia.org/wiki/Stable_matching_problem>. Acesso em: 1 maio 2025.
 
-NETWORKX DEVELOPERS. *networkx/algorithms/bipartite/basic.py*. GitHub. 2025. Disponível em: <https://github.com/networkx/networkx/blob/main/networkx/algorithms/bipartite/basic.py>. Acesso em: 3 maio 2025.
+NETWORKX DEVELOPERS. *networkx/algorithms/bipartite/basic.py*. GitHub. 2025. Disponível em: <https://github.com/networkx/networkx/blob/main/networkx/algorithms/bipartite/basic.py>. Acesso em: 1 maio 2025.
 
 ---
 
