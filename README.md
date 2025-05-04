@@ -55,7 +55,9 @@ O arquivo Python incluído neste repositório contém exemplos comentados e estr
 
 ## Autoria
 Trabalho acadêmico desenvolvido para a disciplina de Teoria dos Grafos.
+
 Universidade Federal de Uberlândia - Ciência da Computação - Teoria dos Grafos - 2024.1
+
 Autores: Yan Lucas, Diogo Koichi, Eduarda Lopes, Lucas Matos.
 
 ---
